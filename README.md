@@ -19,3 +19,5 @@ Root = 7
 4, 7'den küçük 5'ten küçük 1'den büyük ve 3'ten büyük sağa yazılır.
 
 2, 7'den küçük 5'ten küçük 1'den büyük ve 3'ten küçük sola yazılır.
+
+https://www.patika.dev/tr
